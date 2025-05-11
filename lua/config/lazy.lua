@@ -20,6 +20,11 @@ require("lazy").setup({
     -- add LazyVim and import its plugins
     -- { "LazyVim/LazyVim", import = "lazyvim.plugins" },
     { "martiperes/LazyVim", import = "lazyvim.plugins" },
+    -- import any extras modules here
+    -- { import = "lazyvim.plugins.extras.lang.tex" },
+    -- { import = "lazyvim.plugins.extras.coding.luasnip" },
+    -- { import = "lazyvim.plugins.extras.util.dot" },
+    -- { import = "lazyvim.plugins.extras.ui.mini-animate" },
     -- import/override with your plugins
     { import = "plugins" },
   },
