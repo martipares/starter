@@ -9,3 +9,7 @@ This template has been modified to source LazyVim from my fork
 for testing purpose.
 
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+
+# Dependencies 
+<!--TODO add dependencies -->
+
