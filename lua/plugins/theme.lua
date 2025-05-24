@@ -6,6 +6,11 @@ return {
     -- theme tokyonight.nvim moon, storm, night, day
     opts = {
       style = "moon",
+      -- transparent = false,
+      -- styles = {
+      --   sidebars = "transparent",
+      --   floats = "transparent",
+      -- },
       -- on_colors = function(colors)
       --   -- colors.fg = "#ffffff"
       --   -- colors.fg_dark = "#bbbbbb"
