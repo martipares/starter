@@ -20,6 +20,9 @@ require("lazy").setup({
     -- add LazyVim and import its plugins
     -- { "LazyVim/LazyVim", import = "lazyvim.plugins" },
     { "martipares/LazyVim", import = "lazyvim.plugins" },
+    -- extra included by default
+    -- { import = "lazyvim.plugins.extras.coding.blink" },
+    -- { import = "lazyvim.plugins.extras.coding.snacks_explorer" },
     -- enabled languages
     -- { import = "lazyvim.plugins.extras.lang.tex" },
     -- import any extras modules here
