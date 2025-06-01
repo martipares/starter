@@ -25,7 +25,6 @@ lang.tex
 coding.luasnip
 coding.yanky
 editor.dial
-editor.fzf
 editor.inc-rename
 test.core
 util.dot
@@ -42,7 +41,6 @@ In lazyvim.json
     "lazyvim.plugins.extras.coding.luasnip",
     "lazyvim.plugins.extras.coding.yanky",
     "lazyvim.plugins.extras.editor.dial",
-    "lazyvim.plugins.extras.editor.fzf",
     "lazyvim.plugins.extras.editor.inc-rename",
     "lazyvim.plugins.extras.lang.tex",
     "lazyvim.plugins.extras.test.core",
